@@ -1,0 +1,34 @@
+test,n,impl,pass
+hand-computed 2x2,2,C,True
+hand-computed 2x2,2,Java,True
+hand-computed 2x2,2,Python,True
+full matrix vs NumPy,1,C,True
+full matrix vs NumPy,1,Java,True
+full matrix vs NumPy,1,Python,True
+full matrix vs NumPy,2,C,True
+full matrix vs NumPy,2,Java,True
+full matrix vs NumPy,2,Python,True
+full matrix vs NumPy,3,C,True
+full matrix vs NumPy,3,Java,True
+full matrix vs NumPy,3,Python,True
+full matrix vs NumPy,5,C,True
+full matrix vs NumPy,5,Java,True
+full matrix vs NumPy,5,Python,True
+full matrix vs NumPy,10,C,True
+full matrix vs NumPy,10,Java,True
+full matrix vs NumPy,10,Python,True
+full matrix vs NumPy,16,C,True
+full matrix vs NumPy,16,Java,True
+full matrix vs NumPy,16,Python,True
+full matrix vs NumPy,33,C,True
+full matrix vs NumPy,33,Java,True
+full matrix vs NumPy,33,Python,True
+full matrix vs NumPy,64,C,True
+full matrix vs NumPy,64,Java,True
+full matrix vs NumPy,64,Python,True
+checksum vs NumPy,100,C,True
+checksum vs NumPy,100,Java,True
+checksum vs NumPy,100,Python,True
+checksum vs NumPy,250,C,True
+checksum vs NumPy,250,Java,True
+checksum vs NumPy,250,Python,True
